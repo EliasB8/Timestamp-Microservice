@@ -16,12 +16,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://githost.com/camper/repo.git"
+		"url": "https://github.com/EliasB8/Timestamp-Microservice"
 	},
+	"author": "Elias Ferede",
 	"keywords": [
 		"node",
-		"hyperdev",
+		"api",
 		"express",
+		"project",
+		"backend",
 		"freecodecamp"
 	],
 	"license": "MIT"
