@@ -4,7 +4,7 @@
 A micro service built using Express that returns time stamp.
 
 
-The API endpoint is GET https://boilerplate-project-timestamp.eliasferede.repl.co/api/timestamp/:date_string?
+The API endpoint is GET https://timestamp.eliasferede.repl.co/api/timestamp:date_string?
 
 
 #### Example usage:
